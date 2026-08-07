@@ -1,12 +1,12 @@
-📊 Task 2: Exploratory Data Analysis (EDA)
+# 📊 Task 2: Exploratory Data Analysis (EDA)
 
-🎯 Objective
+## 🎯 Objective
 
 The objective of this task is to perform **Exploratory Data Analysis (EDA)** on the **Regional Sales Dataset** using Python. The analysis focuses on understanding the dataset through descriptive statistics, identifying trends and relationships, detecting outliers, and generating meaningful business insights using data visualization techniques.
 
 ---
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 - 🐍 Python
 - 🐼 Pandas
@@ -17,14 +17,14 @@ The objective of this task is to perform **Exploratory Data Analysis (EDA)** on 
 
 ---
 
-📂 Dataset
+## 📂 Dataset
 
 - **Dataset Name:** Regional Sales Dataset
 - **Sheet Used:** Sales Orders
 
 ---
 
-🔍 Analysis Performed
+## 🔍 Analysis Performed
 
 ✔️ Loaded and inspected the dataset
 
@@ -61,7 +61,7 @@ The objective of this task is to perform **Exploratory Data Analysis (EDA)** on 
 
 ---
 
-📊 Visualizations Created
+## 📊 Visualizations Created
 
 - 📌 Correlation Heatmap
 - 📌 Sales Distribution Histogram
@@ -75,7 +75,7 @@ The objective of this task is to perform **Exploratory Data Analysis (EDA)** on 
 
 ---
 
-💼 Business Insights
+## 💼 Business Insights
 
 - 📈 Identified the best-performing sales channels.
 - 🏬 Compared warehouse performance based on total sales.
@@ -86,7 +86,7 @@ The objective of this task is to perform **Exploratory Data Analysis (EDA)** on 
 
 ---
 
-📁 Files Included
+## 📁 Files Included
 
 - 📄 `Regional Sales Dataset.xlsx`
 - 📄 `Task2_EDA.ipynb`
@@ -94,13 +94,13 @@ The objective of this task is to perform **Exploratory Data Analysis (EDA)** on 
 
 ---
 
-🚀 Outcome
+## 🚀 Outcome
 
 The dataset was successfully explored using descriptive statistics and data visualization techniques. Important trends, patterns, and relationships were identified, while outliers were detected using statistical methods. The insights generated from this analysis can support better business decision-making and provide a strong foundation for further analytics and dashboard development.
 
 ---
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 - 📌 Exploratory Data Analysis (EDA)
 - 📌 Descriptive Statistics
@@ -116,8 +116,8 @@ The dataset was successfully explored using descriptive statistics and data visu
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Shibam De
+**Shibam De**
 
 Data Analytics Internship – CodSoft
