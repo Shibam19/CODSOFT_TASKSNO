@@ -169,14 +169,9 @@ The projects are based on the **Regional Sales Dataset**, which contains sales t
 
 ---
 
-# 📬 Contact
+## 👨‍💻 Author
 
 **Shibam De**
 
-🎓 B.Tech CSE | National Institute of Technology Agartala
+Data Analytics Internship – CodSoft
 
-📧 Feel free to connect with me for collaboration, learning, or feedback.
-
----
-
-## ⭐ If you found this repository useful, consider giving it a star!
