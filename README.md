@@ -26,20 +26,23 @@ During this internship, I worked on real-world datasets to develop practical ski
 CODSOFT_TASKSNO
 │
 ├── Task1_DataCleaning
-│   ├── Regional Sales Dataset.xlsx
 │   ├── Cleaned_Regional_Sales.csv
-│   ├── Task1_DataCleaning.ipynb
-│   └── README.md
+│   ├── Cleaned_Regional_Sales.xlsx
+│   ├── README.md
+│   ├── Regional Sales Dataset.xlsx
+│   └── task1.ipynb
 │
 ├── Task2_EDA
 │   ├── Cleaned_Regional_Sales.csv
-│   ├── Task2_EDA.ipynb
-│   └── README.md
+│   ├── Cleaned_Regional_Sales.xlsx
+│   ├── README.md
+│   └── task2.ipynb
 │
 ├── Task3_DataVisualization
 │   ├── Cleaned_Regional_Sales.csv
-│   ├── Task3_DataVisualization.ipynb
-│   └── README.md
+│   ├── Cleaned_Regional_Sales.xlsx
+│   ├── README.md
+│   └── task3.ipynb
 │
 └── README.md
 ```
